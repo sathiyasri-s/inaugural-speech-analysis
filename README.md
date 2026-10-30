@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇺🇸 236 Years of US Inaugural Addresses
+# 236 Years of US Inaugural Addresses
 
 **How has the way presidents speak changed since 1789?**<br>
 A reproducible text analysis of all 60 US presidential inaugural addresses, 1789–2025.
