@@ -1,0 +1,24 @@
+# Private notes and drafts
+PLAN.md
+posts/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets and local settings
+.env
+.claude/
+.vscode/
+.idea/
+
+# Temporary and system files
+*.log
+*.tmp
+*.bak
+.ipynb_checkpoints/
+Thumbs.db
+desktop.ini
+.DS_Store
